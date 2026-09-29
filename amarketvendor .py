@@ -176,7 +176,7 @@ def run_pos_system():
     else:
         print("Star Customer:          None (No transactions recorded)")
     print("=" * 50)
-print("jolly")
+print("jolly") #hello
 
 if __name__ == "__main__":
     run_pos_system()
